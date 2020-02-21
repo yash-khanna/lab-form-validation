@@ -358,3 +358,14 @@ align-items:center;
 letter-spacing:.01em;
 color:#EB5757;
 }
+
+.footer{
+    position:absolute;
+    margin-left: 80px;
+    left: -60px;
+    top: 700px;
+    font-size: 18px;
+    font-family:Open Sans;
+    font-style:normal;
+    font-weight:400;
+}
